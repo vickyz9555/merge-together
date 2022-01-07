@@ -1,7 +1,7 @@
 # merge-together
 
 flavorite color:
-green
+light blue
 
 favorite ice cream flavor:
 chocolate chip cookies
