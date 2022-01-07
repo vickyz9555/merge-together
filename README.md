@@ -8,3 +8,9 @@ chocolate chip cookies
 
 favorite subject:
 algebra
+
+favorite food:  
+noodles  
+
+favorite drink:  
+water  
