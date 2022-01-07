@@ -9,8 +9,11 @@ chocolate chip cookies
 favorite subject:
 algebra
 
-favorite food:  
-noodles  
+favorite toy:
+barbie
+
+favorite food:
+noodles
 
 favorite drink:  
 boba  
