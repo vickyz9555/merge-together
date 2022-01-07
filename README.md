@@ -13,7 +13,7 @@ favorite toy:
 barbie
 
 favorite food:
-noodles
+rice
 
 favorite drink:
 water
