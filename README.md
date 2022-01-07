@@ -8,3 +8,6 @@ chocolate chip cookies
 
 favorite subject:
 algebra
+
+favorite toy:  
+barbie 
