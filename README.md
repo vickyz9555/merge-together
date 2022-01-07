@@ -1,10 +1,10 @@
 # merge-together
 
-flavorite color:  
-green  
+flavorite color:
+green
 
-favorite ice cream flavor:  
-chocolate  
+favorite ice cream flavor:
+chocolate chip cookies
 
-favorite subject:  
-chemistry  
+favorite subject:
+chemistry
