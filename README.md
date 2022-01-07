@@ -15,6 +15,5 @@ barbie
 favorite food:
 rice
 
-favorite drink:
-water
-
+favorite drink:  
+boba  
